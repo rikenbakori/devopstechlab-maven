@@ -1,11 +1,8 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <h1>New user Register for Riken</h1>
-    <h1>deploy-to dev</h1>
-    <h1>deploy-to dev</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
+    <h1>New user Register for DevOps Learning at Devops TechLab. I hope you are enjoying Jenkins Training.</h1>
+    <p>Please fill in this form to create an account. Pipeline Auto Deployment. </p>
+     <hr>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
